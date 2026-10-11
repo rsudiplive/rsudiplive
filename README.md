@@ -6,7 +6,7 @@ I work as a **Senior Data Scientist** with 5+ years of hands-on work experience 
 - Exploring cutting-edge research in LLM's, Transformers, and AI applications in industry.  
 - Ask me about: AI, ML, NLP, or data science workflows.  
 
-
+-----
 ### Tech Stack
 
 - **Languages**: C++, Python.
