@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working as a **Senior Data Scientist** with 4.5+ years of work experience in **Data Science, Machine Learning & NLP**. I love building intelligent systems/solutions and solving real-world problems.
+I'm working as a **Senior Data Scientist** with 5+ years of hands-on work experience in **Data Science, Machine Learning & NLP**. I love building intelligent systems/solutions and solving real-world problems.
 
 - 🔭 Currently working on: AI applications and model optimization.  
 - 🌱 Exploring cutting-edge research in LLM's, Transformers, and AI applications in industry.  
