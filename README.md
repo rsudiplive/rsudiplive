@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-**Senior Data Scientist** with 5+ years of hands-on work experience in **Data Science, Machine Learning & NLP**. I love building intelligent systems/solutions and solving real-world problems.
+I work as a **Senior Data Scientist** with 5+ years of hands-on work experience in **Data Science, Machine Learning & NLP**. I love building intelligent systems/solutions and solving real-world problems.
 
 - Currently working on: AI applications and model optimization.  
 - Exploring cutting-edge research in LLM's, Transformers, and AI applications in industry.  
 - Ask me about: AI, ML, NLP, or data science workflows.  
-- Portfolio: https://sudiproy07.wordpress.com/
 
----
+
 ### Tech Stack
 
 - **Languages**: C++, Python.
